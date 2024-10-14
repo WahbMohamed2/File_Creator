@@ -1,0 +1,16 @@
+E:\Programming\TASKOS3V2\TASKOS3V2\bin\Debug\net6.0-windows\TASKOS3V2.exe
+E:\Programming\TASKOS3V2\TASKOS3V2\bin\Debug\net6.0-windows\TASKOS3V2.deps.json
+E:\Programming\TASKOS3V2\TASKOS3V2\bin\Debug\net6.0-windows\TASKOS3V2.runtimeconfig.json
+E:\Programming\TASKOS3V2\TASKOS3V2\bin\Debug\net6.0-windows\TASKOS3V2.dll
+E:\Programming\TASKOS3V2\TASKOS3V2\bin\Debug\net6.0-windows\TASKOS3V2.pdb
+E:\Programming\TASKOS3V2\TASKOS3V2\obj\Debug\net6.0-windows\TASKOS3V2.Form1.resources
+E:\Programming\TASKOS3V2\TASKOS3V2\obj\Debug\net6.0-windows\TASKOS3V2.csproj.GenerateResource.cache
+E:\Programming\TASKOS3V2\TASKOS3V2\obj\Debug\net6.0-windows\TASKOS3V2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\TASKOS3V2\TASKOS3V2\obj\Debug\net6.0-windows\TASKOS3V2.AssemblyInfoInputs.cache
+E:\Programming\TASKOS3V2\TASKOS3V2\obj\Debug\net6.0-windows\TASKOS3V2.AssemblyInfo.cs
+E:\Programming\TASKOS3V2\TASKOS3V2\obj\Debug\net6.0-windows\TASKOS3V2.csproj.CoreCompileInputs.cache
+E:\Programming\TASKOS3V2\TASKOS3V2\obj\Debug\net6.0-windows\TASKOS3V2.dll
+E:\Programming\TASKOS3V2\TASKOS3V2\obj\Debug\net6.0-windows\refint\TASKOS3V2.dll
+E:\Programming\TASKOS3V2\TASKOS3V2\obj\Debug\net6.0-windows\TASKOS3V2.pdb
+E:\Programming\TASKOS3V2\TASKOS3V2\obj\Debug\net6.0-windows\TASKOS3V2.genruntimeconfig.cache
+E:\Programming\TASKOS3V2\TASKOS3V2\obj\Debug\net6.0-windows\ref\TASKOS3V2.dll
